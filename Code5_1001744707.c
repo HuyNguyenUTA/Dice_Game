@@ -1,4 +1,4 @@
-//Huy Nguyen
+//Huy Nguye
 //1001744707
 
 #include <stdio.h>
