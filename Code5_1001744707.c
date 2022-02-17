@@ -1,6 +1,3 @@
-//Huy Nguyen
-//1001744707
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
