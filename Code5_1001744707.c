@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#definee NUMBEROFREROLLS 3
+#define NUMBEROFREROLLS 3
 #define NUMBEROFFACES 6
 #define NUMBEROFDICE 5
 
